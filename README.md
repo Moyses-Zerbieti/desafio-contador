@@ -19,3 +19,7 @@ Caso o primeiro número seja maior que o segundo, uma exceção personalizada ch
 ## 📂 DesafioControleFluxo
 ### │-- 📄 Contador.java  # Classe principal que recebe os parâmetros e executa o loop
 ### │-- 📄 ParametrosInvalidosException.java  # Classe de exceção personalizada
+<br>
+
+## Vamos nos conectar
+### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moyses-zerbieti/)
